@@ -9,3 +9,4 @@ echo $year
 echo $month
 echo $day
 echo $hour
+echo "amar"
