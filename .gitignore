@@ -1,3 +1,4 @@
 #exclude these files
 *.txt
 *.log
+*.swp
